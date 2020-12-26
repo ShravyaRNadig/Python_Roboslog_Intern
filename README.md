@@ -1,5 +1,7 @@
 # Python_Roboslog_Intern
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # PDF-Spliting-using-Flask
 
 Build and deploy a python flask application to split pdfs
