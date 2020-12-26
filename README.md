@@ -24,4 +24,8 @@ We can send the messages from 1 number to another number With or without specify
 
 # Python-File-Upload-&-Chat-Flask
 
-In this we will upload the file and we can later on chat in this
+In this we will upload the file and we can later on chat in this.
+
+# Python-Flask-Clone-of-Website
+
+In this we can see how to clone a website using Python. And this is for education purpose and I have cloned a basic website which has very less content.
