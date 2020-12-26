@@ -1,1 +1,26 @@
 # Python_Roboslog_Intern
+
+# PDF-Spliting-using-Flask
+
+Build and deploy a python flask application to split pdfs
+
+# Installation
+> pip install flask
+
+> pip install PyPdf2
+
+# What does it do?
+It extracts pages from a pdf and creates a new pdf of the extracted pages. 
+
+
+# Python-Flask-Coronabot-Chatbot
+
+This Contains how robot will chat about the corona with some given questions.
+
+# Python-whatsapp-chat
+
+We can send the messages from 1 number to another number With or without specifying the phone numbers.
+
+# Python-File-Upload-&-Chat-Flask
+
+In this we will upload the file and we can later on chat in this
